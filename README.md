@@ -75,15 +75,11 @@ Results:
 - 91% precision on "suspicious" class
 - AUC = 90.1%
 
-![alt text](https://github.com/[fcezar]/[Capstone]/blob/[main]/AUC.jpg?raw=true)
+![alt text](https://github.com/fecezar/Capstone/blob/main/AUC.jpeg?raw=true)
 
-![alt text](https://github.com/[fcezar]/[Capstone]/blob/[main]/conf_matrix.jpg?raw=true)
+![alt text](https://github.com/fecezar/Capstone/blob/main/conf_matrix.jpeg?raw=true)
 
-![alt text](https://github.com/[fcezar]/[Capstone]/blob/[main]/feat_import.jpg?raw=true)
-
-![alt text](https://github.com/[fcezar]/[Capstone]/blob/[main]/top_10.jpg?raw=true)
-
-![alt text](https://github.com/[fcezar]/[Capstone]/blob/[main]/top_1_exc_hs.jpg?raw=true)
+![alt text](https://github.com/fecezar/Capstone/blob/main/feat_import.jpeg?raw=true)
 
 # Future Research
 - explore court cases with other subject matter. Scrape more and then analyze the description
